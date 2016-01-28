@@ -38,4 +38,4 @@ Another tricky piece is how to store both the formula and the evaluated formula'
 ## Instructions
 Build out your own Backbone Spreadsheets by following along with the tests in the `spec` folder. The CSS has already been included for you.
 
-<a href='https://learn.co/lessons/excel_backbone' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/excel_backbone' title='Backbone Spreadsheets'>Backbone Spreadsheets</a> on Learn.co and start learning to code for free.</p>
